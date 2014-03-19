@@ -13,6 +13,6 @@ public class pokeIndex extends Activity {
         setContentView(R.layout.main);
         contacts = (ListView) findViewById(R.id.contactList); //Link between the DOM XML and Java
 
-        
+
     }
 }
